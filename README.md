@@ -1,9 +1,9 @@
 # Hello, I'm Fei! 👋
 
-📍 Jakarta Timur, DKI Jakarta, Indonesia
-📧 Email: feliciafei2602@gmail.com
-💼 LinkedIn: [Felicia Fei](https://www.linkedin.com/in/felicia-fei-8656b0212/)
-👩🏻‍💻 GitHub: [felicia2602](https://github.com/felicia2602) 
+📍 Jakarta Timur, DKI Jakarta, Indonesia  
+📧 Email: feliciafei2602@gmail.com  
+💼 LinkedIn: [Felicia Fei](https://www.linkedin.com/in/felicia-fei-8656b0212/)  
+👩🏻‍💻 GitHub: [felicia2602](https://github.com/felicia2602)   
 
 ## About me 👨🏻‍💼
 With 2 years of experience in Machine Learning, Data Science, and Data Analytics, I analyze and interpret complex datasets to extract meaningful insights.
