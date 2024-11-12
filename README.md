@@ -4,6 +4,7 @@
 📧 Email: feliciafei2602@gmail.com  
 💼 LinkedIn: [Felicia Fei](https://www.linkedin.com/in/felicia-fei-8656b0212/)  
 👩🏻‍💻 GitHub: [felicia2602](https://github.com/felicia2602)   
+🎨 Design Portfolio: [Porto Felicia](https://drive.google.com/drive/folders/1cyRKh49VqV5waS7B2r7VKzh-6-QdCYZZ?usp=sharing)
 
 ## About me 👨🏻‍💼
 With 2 years of experience in Machine Learning, Data Science, and Data Analytics, I analyze and interpret complex datasets to extract meaningful insights.
@@ -19,9 +20,14 @@ With 2 years of experience in Machine Learning, Data Science, and Data Analytics
 - **Frameworks & Libraries:** pandas, NumPy, scikit-learn.
 - **Tools:** Power BI, Jupyter, Git, Microsoft Office, Google Colab, SPSS.
 - **Specialties:** Data Analysis, Machine Learning, Statistical Modeling, Data Visualization, Data Mining.
+- **Design tools:** Adobe Photoshop, Adobe Premier, Canva.
 
 ## Education 🎓
 - **Bachelors in Statistics**, Universitas Indonesia.
+
+## Organizations 📢
+- **Staff of Multimedia Entertainment and Design**, Universitas Indonesia.
+- **Head of Multimedia Entertainment and Design**, Universitas Indonesia.
 
 ## Certifications 📜
 - **EDX for Data Science: Productivity Tools  (2022)** - Harvard X.
